@@ -3,7 +3,7 @@ Personal Portfolio Website
 A modern, fully responsive personal portfolio website built using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and contact information in a clean and user-friendly layout.
 
 Live Preview
-
+https://parasqureshi13.github.io/Internify_task1/
 
 Features
 
